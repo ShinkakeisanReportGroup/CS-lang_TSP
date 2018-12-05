@@ -1,0 +1,11 @@
+/Users/kai/work/CS-lang_TSP/bin/Debug/netcoreapp2.1/CS-lang_TSP.deps.json
+/Users/kai/work/CS-lang_TSP/bin/Debug/netcoreapp2.1/CS-lang_TSP.runtimeconfig.json
+/Users/kai/work/CS-lang_TSP/bin/Debug/netcoreapp2.1/CS-lang_TSP.runtimeconfig.dev.json
+/Users/kai/work/CS-lang_TSP/bin/Debug/netcoreapp2.1/CS-lang_TSP.dll
+/Users/kai/work/CS-lang_TSP/bin/Debug/netcoreapp2.1/CS-lang_TSP.pdb
+/Users/kai/work/CS-lang_TSP/obj/Debug/netcoreapp2.1/CS-lang_TSP.csprojAssemblyReference.cache
+/Users/kai/work/CS-lang_TSP/obj/Debug/netcoreapp2.1/CS-lang_TSP.csproj.CoreCompileInputs.cache
+/Users/kai/work/CS-lang_TSP/obj/Debug/netcoreapp2.1/CS-lang_TSP.AssemblyInfoInputs.cache
+/Users/kai/work/CS-lang_TSP/obj/Debug/netcoreapp2.1/CS-lang_TSP.AssemblyInfo.cs
+/Users/kai/work/CS-lang_TSP/obj/Debug/netcoreapp2.1/CS-lang_TSP.dll
+/Users/kai/work/CS-lang_TSP/obj/Debug/netcoreapp2.1/CS-lang_TSP.pdb
